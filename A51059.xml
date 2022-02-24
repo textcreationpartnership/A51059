@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Moderate and safe expedient to remove jealousies and feares of any danger or prejudice to this state by the Roman Catholicks of this Kingdome and to mitigate the censure of too much severity towards them, with a great advantage of honour and profit to this state and nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51059</idno>
+            <idno type="STC">Wing M2322</idno>
+            <idno type="STC">ESTC R28830</idno>
+            <idno type="EEBO-CITATION">10767530</idno>
+            <idno type="OCLC">ocm 10767530</idno>
+            <idno type="VID">45743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45743)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Moderate and safe expedient to remove jealousies and feares of any danger or prejudice to this state by the Roman Catholicks of this Kingdome and to mitigate the censure of too much severity towards them, with a great advantage of honour and profit to this state and nation.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Catholics --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45743:1"/>
+            <p>A MODERATE AND Safe Expedient To remove <hi>Jealouſies</hi> and <hi>Feares,</hi> of any danger, or prejudice to this State, by the ROMAN CATHOLICKS <hi>of this Kingdome,</hi>
+            </p>
+            <p>And to mitigate the cenſure of too much ſeverity towards them.</p>
+            <p>VVith a great advantage of Honour and Profit to this State and Nation.</p>
+            <p>Printed in the Year of our Lord, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45743:2"/>
+            <pb n="3" facs="tcp:45743:2" rendition="simple:additions"/>
+            <head>A moderate and ſafe Expedient, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F it pleaſe the Parliament to take the condition of the <hi>Roman Catholicks</hi> in<g ref="char:EOLhyphen"/>to ſerious conſideration, they may, perhaps, finde cauſe to give them li<g ref="char:EOLhyphen"/>berty of conſcience in England; or as much to<g ref="char:EOLhyphen"/>leration, at leaſt, as people of that profeſsion have in Holland (which is little leſſe then a liberty of conſcience) although that State might perhaps finde more reaſon, then the State of England hath, to be jealous of ſuch perſons: but by expe<g ref="char:EOLhyphen"/>rience, the Hollanders finde that way to ſucceed well with them. Nevertheleſſe, in caſe the Par<g ref="char:EOLhyphen"/>liament ſhall not think fit to do ſo, they may be pleaſed to give to ſo many of them as will accept thereof, free &amp; publick leave to tranſplant them<g ref="char:EOLhyphen"/>ſelves, families, and eſtates, into <hi>Mariland,</hi> a Pro<g ref="char:EOLhyphen"/>vince in America, above 3000 miles diſtant from England, upon theſe enſuing conſiderations, both of the reaſons for their departure, and of ſuch encouragements as are requiſite to enduce thoſe of that profeſſion here, voluntarily to tranſ<g ref="char:EOLhyphen"/>plant themſelves thither.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In regard they are conceived dangerous perſons
+<pb n="4" facs="tcp:45743:3"/>
+to this State (according to the Policy and Reli<g ref="char:EOLhyphen"/>gion of the preſent government) it were better they ſhould willingly baniſh themſelves from hence, then that they ſhould continue here ob<g ref="char:EOLhyphen"/>noxious to it; and ſo the intention of the lawes made againſt them (for and in reſpect of their Religion) may be with leſſe imputation of ſeve<g ref="char:EOLhyphen"/>rity fulfilled. For certainly the chief (if not only) end of thoſe lawes was to free this Kingdome, as much as might be, of ſuch perſons, and not to enrich the King, much leſſe to ſatisfie any thirſt of blood, no more, then of any other penall laws made againſt any ſubjects that are Proteſtants.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> It may be doubted, that thoſe who live in pain will contrive and endeavour, by all the meanes they can, to eaſe themſeves: and therefore the more ready way to remove the fears and jealou<g ref="char:EOLhyphen"/>ſies which this State hath of the ſaid <hi>Roman Catholicks,</hi> is not to keepe them here under the heavie burthen of the penall Laws made againſt them for their Religion; but either to let them enjoy here the rights, and liberties of other free<g ref="char:EOLhyphen"/>born ſubjects; or elſe to give them leave to go into another countrey, where they may enjoy them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> That they ſhould, on that Condition, have leave alſo to diſpoſe of their eſtates here, aſwell as to goe from hence, is but juſt and reaſonable, and
+<pb n="5" facs="tcp:45743:3"/>
+agreeing with good policy, For conformity to the Church of England (which at any time ex<g ref="char:EOLhyphen"/>empts them from the penalty of the ſaid lawes) and baniſhment, have both one effect, as to the prime end of thoſe Lawes, to wit, the decreaſe of Roman Catholiques in England, and it was not their being <hi>Roman Catholiques,</hi> but their being ſoe in England, which cauſed the ſaid lawes, wherefore, <hi>ablata cauſa t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llitur effectus,</hi> in this caſe, may be a juſt plea for them, and their perſons, and eſtates, (without which they can ſubſiſt no where) have too neer a relation to one another to be voluntarily parted, ſo as to de<g ref="char:EOLhyphen"/>ny this, is (in effect) to deny them leave to go, &amp; to force them away, without their eſtates, might make them have <hi>animum revertendi:</hi> which affe<g ref="char:EOLhyphen"/>ction, in deſperate &amp; diſcontented perſons, might perhaps be of ill conſequence to England. More<g ref="char:EOLhyphen"/>over to give them leave to go, and to deny them leave to diſpoſe of their eſtates, might bring a diſhonourable imputation on this State, in ma<g ref="char:EOLhyphen"/>king the World believe, that the lawes here a<g ref="char:EOLhyphen"/>gainſt Recuſants were made, or at leaſt wiſe now made uſe of, for lucre only, and not for ad<g ref="char:EOLhyphen"/>vancing the Goſpel. And the Honourable Houſes of Parliament may be pleaſed in this caſe of vo<g ref="char:EOLhyphen"/>luntary baniſhment, to allow the ſaid <hi>Roman Catholicks</hi> as much favour as the Spaniards did
+<pb n="6" facs="tcp:45743:4"/>
+the Moores, in theirs, which was compulſive; who, notwithſtanding, had free leave to diſpoſe of their eſtates in Spaine, before their departure from thence. If the Parliament ſhall not think fit to let them diſpoſe of all their eſtates, eſpecial<g ref="char:EOLhyphen"/>ly ſuch as have born arms againſt them; then it may be required, that upon the ſale, a competent proportion, of the value, be paid to the uſe of the State. And, no doubt, many good bargains will, by this means, be afforded to Proteſtant Purcha<g ref="char:EOLhyphen"/>ſers, together with an unqueſtionable title, from the true owners.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> To let them go to <hi>Mariland,</hi> is better, then that they ſhould go into any Forein Princes Do<g ref="char:EOLhyphen"/>minions; becauſe it will not be for the honour, nor perhaps for the ſafety of England, to permit another Princes Territories to be ſupplyed with people, by any conſiderable number of the Na<g ref="char:EOLhyphen"/>tives of this Kingdome: Whereas the planting of the ſaid <hi>Roman Catholicks</hi> in <hi>Mariland</hi> (w<hi rend="sup">ch</hi> hath a dependance on the Crown of England) Will conduce much to the honour and profit of this State and Nation, by enlarging the Domini<g ref="char:EOLhyphen"/>ons thereof, by encreaſe of trade and ſhipping, by vent of our native commodities, by im<g ref="char:EOLhyphen"/>portation of others, and, conſequently, by im<g ref="char:EOLhyphen"/>provement of cuſtomes; for they cannot ſub<g ref="char:EOLhyphen"/>ſiſt in <hi>Mariland,</hi> without yearly ſupplies of many
+<pb n="7" facs="tcp:45743:4"/>
+neceſſaries from England, and, at ſo remote a diſtance, no danger from them to this King<g ref="char:EOLhyphen"/>dome can rationally be feared: and they will certainly rather ſtay ſtill in England, in any condition, then go into any other of the Kings dominions where they cannot have the liberty of their conſcience, or be in any hazard of re<g ref="char:EOLhyphen"/>ſtraint thereof, either in preſent or future, for that were; but to exchange the place, and an enlarge<g ref="char:EOLhyphen"/>ment of their miſeries.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Publick licenſe and approbation of the Parlia<g ref="char:EOLhyphen"/>ment, to depart and make proviſions, is requi<g ref="char:EOLhyphen"/>ſite and neceſſary in this caſe, for them; and an Ordinance where by they may be enabled, not<g ref="char:EOLhyphen"/>withſtanding other Ordinances, laws, &amp; Seque<g ref="char:EOLhyphen"/>ſtrations, as alſo Entailes, to diſpoſe of their eſtates here, and aſſured that they ſhall have no mole<g ref="char:EOLhyphen"/>ſtation in their paſſage from hence, nor in their reſidence and abode in <hi>Mariland,</hi> but all juſt protection from this State: and that they may freely enjoy there the benefit and priviledges of that government, which is appointed for that Province by his Majeſties Charter to the Lord <hi>Baltemore,</hi> a <hi>Roman Catholick</hi> (it being in the na<g ref="char:EOLhyphen"/>ture of a County Palatine depending on the Crowne of England, and inveſted, together with the land, in the ſaid Lord <hi>Baltemore</hi> and his heirs by patent in the 8th yeare of this Kings raigne)
+<pb n="8" facs="tcp:45743:5"/>
+that upon confidence thereof they may tranſplant themſelves thither: For otherwiſe they will not dare to adventure upon ſuch a deſigne, for fear that when, with much hazard, toile, and expence they ſhall have diſpoſed of themſelves tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way, and perhaps made themſelves uncapable of ſub<g ref="char:EOLhyphen"/>ſiſting any where elſe; they may, through want of ſuch aſſurances, be utterly ruined: and they had need to be very well ſecured of theſe encou<g ref="char:EOLhyphen"/>ragements, to help them to overcome many o<g ref="char:EOLhyphen"/>ther difficulties and incommodities which at<g ref="char:EOLhyphen"/>tend a new Plantation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> This will much mitigate the cenſure which Forein States of that profeſsion in Religion may have of this government, in reſpect of the ſevere proceedings againſt the ſaid <hi>Roman Catholicks</hi> here, for their Religion. And may remove as well divers obſtacles in future Treaties, with ſome of thoſe States, which perhaps have hereto<g ref="char:EOLhyphen"/>fore ariſen between this and them, in contemplation of the ſaid Roman Catholicks; as all Deſignes which any ſuch State may have upon them, for the diſturbance of the peace of this Kingdome, while they remain under heavie burthens here: And this favor ſhewed unto them, will certainly oblige the ſaid Roman Catholicks in a ſtrong bond of fidelity, to their Native Countrey.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> To conclude, by this means, a tender conſcience ſhal not be violenced, a ſuſpected party will be removed, an unity in this nation the more confirmed, an increaſe of the do<g ref="char:EOLhyphen"/>minion of this Crown acquired; and, with theſe, the end of all thoſe Laws againſt Recuſants, <hi>viz.</hi> Their decreaſe in this Kingdom, more ſpeedily brought to effect<g ref="char:punc">▪</g> which hath been long, but with ſmal ſucceſſe, endeavoured.</p>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:45743:5"/>
+            <head>Obiections Anſwered tou<g ref="char:EOLhyphen"/>ching <hi>MARILAND.</hi>
+            </head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> IT may be Objected that the Lawes againſt the Roman Catholikes were made in order to their conformity to the Proteſtant Religion, for the good of their Soules, and by that meanes to free this Kingdome, of Popery, rather then of their perſons, but ſuch a Licence for them to depart this Kingdome and to go into <hi>Mariland,</hi> or any Country where they may have free liberty of their Religion, would take away all hopes of their conformity to the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> It is evident that Reaſon of State (for the ſafety of the King and Kingdome) more then of Religion, was the cauſe and end of thoſe Lawes, for there are no ſuch againſt divers other profeſſions of Religion in <hi>England,</hi> although they be as different from the Doctrine of the Proteſtant Church, eſtabliſhed by Law, in this King<g ref="char:EOLhyphen"/>dome, as that of the Roman Catholiques is: And this Reaſon of State appeares alſo in the nature of moſt of thoſe Lawes, for they expreſſe great doubts and jea<g ref="char:EOLhyphen"/>louſies of the ſaid Roman Catholiques affection to, and dependance on a Forraigne power, and tend therefore moſt of them, to diſinable them by confining, diſar<g ref="char:EOLhyphen"/>ming, &amp;c) from plotting or doing any miſchiefe to the King or State, and to ſecure their allegiance to the King by oathes, &amp;c. and the penalties of divers of them
+<pb n="10" facs="tcp:45743:6"/>
+are abjuration of the Realme, which puts them out of the way of conformity to the Church of <hi>England.</hi> Moreover, converſion in matter of Religion, if it bee forced, ſhould give little ſatisfaction to a wiſe State of the fidelity of ſuch Convertites, for thoſe who for worldly reſpects will breake their Faith with God, doubtleſſe will doe it, upon a fit occaſion, much ſooner with men; and for voluntary converſions ſuch Lawes could be of no uſe, wherefore certainely the ſafety of King and Kingdome was the ſole ayme and end of them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Such a Licence will ſeeme to be a kinde of tollera<g ref="char:EOLhyphen"/>tion of (at leaſt a connivence at Popery) which ſome may find a ſcruple of conſcience to allow of in any part of the Kings Dominions, becauſe they eſteem it a kinde of Idolatry, and may therefore conceive that it would ſcandalize their Brethren, and the Common people here.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> Such ſcrupulous perſons may aſwell have a ſcruple to let the Roman Catholiques live here, though it bee under perſecution, as to give way to ſuch a Licence, becauſe baniſhment from a pleaſant, plentifull, and ones owne native Country, into a Wilderneſſe, among Salvages and wild Beaſts, although it proceed (in a manner from ones own election) yet, in this caſe, where it is provoked by other wayes of perſecution, is but an exchange rather then a freedome of puniſhment, and perhaps, in ſome mens opinions, from one perſecuti<g ref="char:EOLhyphen"/>on to a worſe, For divers Malefactors in this King<g ref="char:EOLhyphen"/>dome, have choſen rather to be hanged then to goe into <hi>Virginia,</hi> when, upon that condition, they have bin offered their lives, even at the place of Execution, and
+<pb n="11" facs="tcp:45743:6"/>
+they may, with more ground, have a ſcruple of conſci<g ref="char:EOLhyphen"/>ence to let any of the ſaid Roman Catholiqiues to goe from hence into <hi>France</hi> (which few or none certainely can have in contemplation of Religion only, and this Parliament hath given Paſſes to divers of them for that purpoſe) hat being more properly the Kings Do<g ref="char:EOLhyphen"/>minions then is all that great part of <hi>North America,</hi> (wherein <hi>Mariland</hi> is included) unto which the Crown of <hi>England</hi> layes claime, upon the Title of diſcovery only, except ſuch part thereof as is actually ſeated and poſſeſſed by ſome of his Subjects, and therefore in the Preamble of the Lord <hi>Baltemores</hi> Patent of <hi>Mariland,</hi> the enlargement of the Kings Dominions is recited as a motive of the Grant, which inferres that it could not ſo properly bee eſteemed his Dominions before, as when, by vertue of ſuch a grant, it ſhould be planted by ſome of his Subjects, And if it be all the Kings Domi<g ref="char:EOLhyphen"/>nions notwiahſtanding; then why have not ſuch ſcru<g ref="char:EOLhyphen"/>pelous perſons a ſcruple, to ſuffer the Indians (who are undoubted Idolators) as they doe, to live there, which if they cannot conveniently prevent (as without que<g ref="char:EOLhyphen"/>ſtion they cannot, unleſſe it be by granting ſuch a Li<g ref="char:EOLhyphen"/>cence) they may aſwell ſuffer thoſe whom they eſteem Idolators, as thoſe whom they and all other Chriſti<g ref="char:EOLhyphen"/>ans whatſoever repute and know to be ſo, to inhabit and poſſeſſe that Country. Moreover they may alſo (aſwel as in this) have a ſcruple to treat or make, or con<g ref="char:EOLhyphen"/>tinue a League, or to Trade with any Forraigners of that Religion, becauſe in their oppinions they are Ido<g ref="char:EOLhyphen"/>lators, or to permit the publique Miniſters of any ſuch Forraigne Prince or State to have the free exerciſe of their Religion, while they are in England, and may
+<pb n="12" facs="tcp:45743:7"/>
+feare giving ſcandall to others by ſuch tollerations or connivences: All which nevertheleſſe we ſee done, even in theſe times, and allowed of, aſwell by the Par<g ref="char:EOLhyphen"/>liament as the King, upon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon of ſtate, for the good and ſafety of this Realme. So may this Licence bee alſo thought by ſuch perſons, a good expedient for the ſame purpoſe. And if any (of the weaker ſort) ſhould be ſcandalized at it, the ſcandal would be, <hi>accep<g ref="char:EOLhyphen"/>tum</hi> not <hi>datum,</hi> and therefore not to be regarded by a wiſe and judicious Prince or State.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> By it the Kings Revenue will be impaired, in loo<g ref="char:EOLhyphen"/>ſing the benefit which the ſaid Lawes give him, out of Recuſants Eſtates, while they continue in <hi>England</hi> of that profeſſion of Religion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> The end of thoſe Lawes was not the Kings profit, but (as is ſaid before) the freeing of this Kingdome of Recuſants which deprives the King of an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> benefit by them, ſo as his Majeſty will have no wrong don him by ſuch A Licence, becauſe he will looſe nothing by it, of what was intended him by the ſaid Lawes; this is no ancient Revenue of the Crowne, for it had inception but in Queene <hi>Elizabeths</hi> time, and conformity or alie<g ref="char:EOLhyphen"/>nation to a Proteſtant deprives the King of this Reve<g ref="char:EOLhyphen"/>nue, if there were no Crimes at all committed in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the King would looſe many Fines, and confiſcati<g ref="char:EOLhyphen"/>ons, whereby his Revenue would alſo be impaired (W<hi rend="sup">ch</hi> in the other, as well as in this branch of it, is but caſu<g ref="char:EOLhyphen"/>all) and yet, without queſtion the King and State would both deſire it: the ſame reaſon holds in this, conſide<g ref="char:EOLhyphen"/>ring what opinion is had here of the Recuſants, where fore it cannot, with good manners, be doubted that his Majeſty will, in this buſineſſe, preferre his own benefit,
+<pb n="13" facs="tcp:45743:7"/>
+before that which the State ſhall conceive to be con<g ref="char:EOLhyphen"/>venient for his ſafety and the puqlique good.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> It would much prejudice this Kingdome by draw<g ref="char:EOLhyphen"/>ing a conſiderable number of people, and tranſporting of a great deale of wealth, from hence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> The number of all the Recuſants in <hi>England</hi> is not ſo great, as that the departure of them all from hence would make any ſencible diminution of people in it, and their profeſſion in Religion would make them the leſſe miſſed here. If the number were great, then conſequently (according to the Maximes of this State) they were the more dangerous, and there would be the more reaſon, by this meanes, to leſſen it: And if it bee but ſmall (as indeed it is) then their abſence from hence would little prejudice the Kingdome in the decreaſe of people, nor will ſuch a Licence occaſion the tranſ<g ref="char:EOLhyphen"/>portation of much wealth out of <hi>England,</hi> for they ſhal not need to carry any conſiderable ſummes of money with them, nor is it deſired that they ſhould have leave ſo to do, but only uſefull things for a Plantation, as Proviſions for Cloathing<g ref="char:punc">▪</g> and Building, and Plan<g ref="char:EOLhyphen"/>ting Tooles, &amp;c. which will advantage this Kingdome by increaſe of Trade, and vent of its native Commo<g ref="char:EOLhyphen"/>dities, and transferre the reſt of their Eſtates, by Bills of Exchange, into Bankes beyond Sea, which tends alſo to the advantage of the Trade of England, for more ſtock by this meanes will be imployed in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>5</label> It may prove dangerous to <hi>Virginea</hi> and <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> where many Engliſh Proteſtants are planted, <hi>Ma<g ref="char:EOLhyphen"/>riland</hi> being Scituated betweene them both, becauſe it may be ſuſpected that the ſaid <hi>Roman Catholiques</hi> will bring in the Spaniards or ſome other Forraigne
+<pb n="14" facs="tcp:45743:8"/>
+Enemy to ſuppreſſe the Proteſtants in thoſe parts, or perhaps grow ſtrong enough to doe it of themſelves, or that in time (having the Government of that Pro<g ref="char:EOLhyphen"/>vince of <hi>Mariland</hi> in their hands) they may and will ſhake off any dependance on the Crowne of <hi>England.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> The Engliſh Colonies in <hi>New-England</hi> are at leaſt 500 miles, and that of <hi>Virginea</hi> 100 miles diſtant from <hi>Mariland,</hi> and it will be a long time before Planters can be at leiſure to think of any ſuch deſigne, and there is little cauſe to doubt, that any people, as long as they may live peaceably under their owne Govern<g ref="char:EOLhyphen"/>ment, without oppreſſion either in Spiritualls or Tem<g ref="char:EOLhyphen"/>poralls, will deſire to bring in any Forraigners to do<g ref="char:EOLhyphen"/>mineere over them, which miſery they would undou<g ref="char:EOLhyphen"/>tedly fall into, If any conſiderable Forraigne Prince or State (who are only in this caſe to be feared) had the poſſeſſion of the Engliſh Collonies in <hi>Virginea</hi> or <hi>New England,</hi> But the number of Engliſh Proteſtants alrea<g ref="char:EOLhyphen"/>dy in <hi>Virginea</hi> and <hi>New England,</hi> together with the po<g ref="char:EOLhyphen"/>verty of thoſe parts, makes it very improbable that any Forraigne Prince or State will bee tempted to under<g ref="char:EOLhyphen"/>goe the charge and hazard of ſuch a remote deſigne, it being well knowne that the Spaniſh Colonies in the Weſt Indies are farther diſtant then Europe is from thence; If any danger were to be ſuſpected, in that way, from the ſaid Recuſants, the like ſuſpition of bringing in a Forraigne Enemy into England, may (as indeed it hath often been) be had of them, while they are here, for the difference of ſcituation may ballance the dif<g ref="char:EOLhyphen"/>ference of the power, betweene this Kingdome and thoſe parts, for the accompliſhing of ſuch a deſigne, and certainely (of the two) it were much better to
+<pb n="15" facs="tcp:45743:8"/>
+throw that hazard (if it were any) upon <hi>Virginea</hi> and <hi>New England,</hi> then to have it continue here; Much leſſe cauſe is there to feare that they ſhould grow ſtrong enough of themſelves to ſuppreſſe the Proteſtants in thoſe parts: For there are already atleaſt three times as many proteſtants there, as there are Roman Ca<g ref="char:EOLhyphen"/>tholiques in all England, And the Proteſtants in <hi>Vir<g ref="char:EOLhyphen"/>ginea</hi> and <hi>New England</hi> are like to increaſe much faſter, by new ſupplyes of people yearely from England, &amp;c. Then are the <hi>Roman Catholiques</hi> in <hi>Mariland,</hi> More<g ref="char:EOLhyphen"/>over although they ſhould, (which God forbid, and which the Engliſh Proteſtants in thoſe parts will in all probability be ſtill able to preven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) ſhake off any de<g ref="char:EOLhyphen"/>pendance on the Crowne of England<g ref="char:punc">▪</g> yet, firſt Eng<g ref="char:EOLhyphen"/>land would, by this meanes, be freed of ſo many ſu<g ref="char:EOLhyphen"/>ſpected perſons now in it: Secondly it would looſe little by it: And laſtly, even in that caſe, it were not<g ref="char:EOLhyphen"/>withſtanding more for the Honour of the Engliſh Nation, that Engliſh men, although Roman Catho<g ref="char:EOLhyphen"/>liques, and although not dependant on the Crowne of England, ſhould poſſeſſe that Country then For<g ref="char:EOLhyphen"/>raigners, who, otherwiſe, are like to doe it: for the Swedes and Dutch have two ſeverall Plantations al<g ref="char:EOLhyphen"/>ready in New England, and upon the Confines of <hi>Mariland,</hi> (betweene the Engliſh Colonies in <hi>New-England</hi> and <hi>Mariland</hi>) and doe incroach every day more and more upon that continent, where there is much more Land then all the Kings Proteſtant Sub<g ref="char:EOLhyphen"/>jects in all his Dominions, (were they there) would be able to poſſeſſe: But the aſſurance of protection from the Crowne and State of England, upon all juſt occa<g ref="char:EOLhyphen"/>ſions, either of danger from A Forraigne Enemy, or
+<pb n="16" facs="tcp:45743:9"/>
+of wrongs which may be done unto them by his Majeſties Proteſtant Subjects in thoſe parts, and the benefit of Trade with England for year<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly ſupplies, without which they will not be able to ſubſiſt, will be ſtrong tyes, if there were no other, to binde them to continue their dependance on it.</p>
+            <p>Moreover the Mouth of the Bay of <hi>Cheſeapeacke,</hi> being but narrow, and at which all ſhips that come to Mari<g ref="char:EOLhyphen"/>land muſt enter, is within the precincts and power of the Colony of Virginea<g ref="char:punc">▪</g> and the Planters of Virginea, will by the acceſſe of ſo many Neighbours be much advantaged, becauſe their Cattle &amp; many other commodities, which they abound in, and have no vent for, and which this new Colony will ſtand in need of, will, by this meanes, yeeld them good rates, which now are of little value to them, wherefore certainly they will feare no prejudice, but will be glad of ſuch a market for improvement of their eſtates: though perhaps ſome petty Marchants heere<g ref="char:punc">▪</g> traders to Virgines, may conceive it prejudicial to them, and therefore may make religion, and other vaine pretences of danger to Virginea, or this ſtate, the cloake of their avarice, to hinder this deſigne; whereas, in truth, it can bee nothing elſe, but feare of increaſe of the Commodi<g ref="char:EOLhyphen"/>ties, they deale in, and conſequently of an abatement of the prices, that may incline them to oppoſe it.</p>
+            <pb facs="tcp:45743:9"/>
+         </div>
+         <trailer>FINJS.</trailer>
+      </body>
+   </text>
+</TEI>
